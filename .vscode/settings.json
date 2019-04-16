@@ -1,0 +1,6 @@
+{
+    "git.autofetchPeriod": 180,
+    "view-in-browser.customBrowser": "chrome",
+    "git.autofetch": true,
+    
+}
